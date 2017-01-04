@@ -1,0 +1,15 @@
+G:\C++ code\CppMonitor\CppMonitor\obj\Debug\CppMonitor.csprojResolveAssemblyReference.cache
+G:\C++ code\CppMonitor\CppMonitor\obj\Debug\CppMonitor.csproj.ResolveComReference.cache
+G:\C++ code\CppMonitor\CppMonitor\obj\Debug\VSPackage.resources
+G:\C++ code\CppMonitor\CppMonitor\obj\Debug\NanjingUniversity.CppMonitor.Resources.resources
+G:\C++ code\CppMonitor\CppMonitor\obj\Debug\CppMonitor.csproj.GenerateResource.Cache
+G:\C++ code\CppMonitor\CppMonitor\bin\Debug\CppMonitor.dll
+G:\C++ code\CppMonitor\CppMonitor\bin\Debug\CppMonitor.pdb
+G:\C++ code\CppMonitor\CppMonitor\bin\Debug\CppMonitor.pkgdef
+G:\C++ code\CppMonitor\CppMonitor\bin\Debug\CppMonitor.vsix
+G:\C++ code\CppMonitor\CppMonitor\bin\Debug\extension.vsixmanifest
+G:\C++ code\CppMonitor\CppMonitor\obj\Debug\CppMonitor.dll
+G:\C++ code\CppMonitor\CppMonitor\obj\Debug\CppMonitor.pdb
+G:\C++ code\CppMonitor\CppMonitor\obj\Debug\CppMonitor.pkgdef
+G:\C++ code\CppMonitor\CppMonitor\obj\Debug\CppMonitor.latest.pkgdef
+G:\C++ code\CppMonitor\CppMonitor\obj\Debug\extension.vsixmanifest
