@@ -1,1 +1,5 @@
-
+*.sln
+*.suo
+/CppMonitor/bin
+/CppMonitor/obj
+*.user
