@@ -1,4 +1,0 @@
-C:\Users\Lf\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\NanjingUniversity\CppMonitor\1.0\\CppMonitor.dll
-C:\Users\Lf\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\NanjingUniversity\CppMonitor\1.0\\CppMonitor.pkgdef
-C:\Users\Lf\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\NanjingUniversity\CppMonitor\1.0\\extension.vsixmanifest
-C:\Users\Lf\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\NanjingUniversity\CppMonitor\1.0\\CppMonitor.pdb
